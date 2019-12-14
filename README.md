@@ -1,4 +1,4 @@
-# PySQL Internet monitor
+# PySQL WiFi Speed Tester
 A simple python script to run SpeedTests every hour and write the results to a MySQL database.
 
 ## Prerequisites
