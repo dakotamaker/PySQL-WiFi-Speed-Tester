@@ -3,7 +3,7 @@ A simple python script to run SpeedTests every hour and write the results to a M
 
 ## Prerequisites
 * A MySQL server
-* Python 3
+* Python 3.7 (or above)
 * A table in the MySQL server with the following columns:
     * `date`: A datetime column to track when the test was conducted
     * `download`: A float field for the download speeds in Mbps
